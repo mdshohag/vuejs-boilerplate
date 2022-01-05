@@ -155,4 +155,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 __!!! Project still in progress !!!__
 
-_2017 - 2018 - 2019 - 2020 ..._
+_2017 - 2018 - 2019 - 2020 - 2021 ..._
